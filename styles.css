@@ -1,0 +1,138 @@
+body{
+  background-color: rgb(196, 194, 194);
+  margin: 0;}
+div{
+  box-sizing: border-box;
+}
+header {
+    background-color: white;
+    padding: 10px;
+}
+header h1{
+  margin: 0;
+  text-align: center;
+  
+}
+.post{    
+ background-color: white;
+ margin-top: 10px;
+}
+.post h2, .post p{
+  padding: 10px;
+  margin: 0;
+}
+.post img{
+  width: 100%;
+}
+.post .post-header div:first-child{
+  display: inline-block;
+  width: 80%;
+}
+.post .post-header div:last-child{
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  padding: 5px;
+  color:gray
+}
+.container{
+  width: 600px;
+  margin: auto;
+}
+
+
+.container2{
+  width: 600px;
+  margin: auto;
+}
+.post2 img{
+  width: 100%;
+}
+.post2{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post2 .post-header2 div:first-child{
+  display: inline-block;
+  width: 80%;
+}
+.post2 .post-header2 div:last-child{
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  padding: 5px;
+  color:gray
+}
+.post2
+{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post2 h2, .post2 p{
+   padding: 10px;
+   margin: 0;
+ }
+
+ .container3{
+  width: 600px;
+  margin: auto;
+}
+.post3 img{
+  width: 100%;
+}
+.post3{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post3 .post-header3 div:first-child{
+  display: inline-block;
+  width: 80%;
+}
+.post3 .post-header3 div:last-child{
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  padding: 5px;
+  color:gray
+}
+.post3
+{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post3 h2, .post3 p{
+   padding: 10px;
+   margin: 0;
+ }
+
+ .container4{
+  width: 600px;
+  margin: auto;
+}
+.post4 img{
+  width: 100%;
+}
+.post4{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post4 .post-header4 div:first-child{
+  display: inline-block;
+  width: 80%;
+}
+.post4 .post-header4 div:last-child{
+  display: inline-block;
+  width: 20%;
+  text-align: right;
+  padding: 5px;
+  color:gray
+}
+.post4
+{    
+  background-color: white;
+  margin-top: 10px;
+ }
+ .post4 h2, .post4 p{
+   padding: 10px;
+   margin: 0;
+ }
